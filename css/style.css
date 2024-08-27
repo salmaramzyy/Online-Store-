@@ -1,0 +1,155 @@
+.home{
+    background-image: url(../imgs/candidate-advice-2e5a41f4d81a4a4e9c12c5cdcadd8051\ \(1\).png);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
+.home1{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+.steps{
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 700%;
+    font-style: bold;
+}
+.bg{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 3px;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-bottom: auto;
+    background-color: rgba(246, 241, 235,0.6);
+    border-radius: 15px; 
+}
+.button1{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+}
+.bling{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bling1:hover {
+    content: url(../imgs/Screenshot\ 2024-08-25\ 154739.png);
+    transition: background-image 0.3s ease-in-out;
+}
+.bling2:hover{
+    content:url(../imgs/Screenshot\ 2024-08-25\ 154810.png);
+    transition: background-image 0.3s ease-in-out;
+}
+.button-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+    margin-top: 20px;
+}
+
+.btn-outline {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+.btn-outline:hover {
+    background-color: grey;
+}
+.btn-solid {
+    width: 300px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+.btn-solid:hover {
+    background-color: grey; 
+}
+
+.button1-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+    margin-top: 20px;
+}
+
+.btn1-solid {
+    width: 150px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+.btn1-solid:hover {
+    background-color: grey; 
+}
+.sizes{
+    padding-left: 47%;
+    padding-bottom: 15px;
+    width:15px;
+    height:20px;
+}
+.first:hover{
+    content: url(../imgs/Screenshot\ 2024-08-25\ 155343.png);
+    transition: background-image 0.3s ease-in-out;
+}
+.second:hover{
+    content: url(../imgs/Screenshot\ 2024-08-25\ 155354.png);
+    transition: background-image 0.3s ease-in-out;
+}
+.third:hover{
+    content: url(../imgs/Screenshot\ 2024-08-25\ 155100.png);
+    transition: background-image 0.3s ease-in-out;
+}
+.fourth:hover{
+    content: url(../imgs/Screenshot\ 2024-08-25\ 155354.png);
+    transition: background-image 0.3s ease-in-out;
+}
+.small{
+    width:50px;
+    height:30px;
+}
+.medium{
+    width:50px;
+    height:30px;
+}
+.large{
+    width:50px;
+    height:30px;
+}
+.xlarge{
+    width:50px;
+    height:30px;
+}
+.small:hover{
+    color: aliceblue;
+    background-color: black;
+}
+.medium:hover{
+    color: aliceblue;
+    background-color: black;
+}
+.large:hover{
+    color: aliceblue;
+    background-color: black;
+}
+.xlarge:hover{
+    color: aliceblue;
+    background-color: black;
+}
